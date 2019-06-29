@@ -4,7 +4,7 @@
 
 ### Web Developer 
 
-[Website/WordPress](http://divasintransition.org/front-page/)
+[Website/WordPress - Divas in Transition](http://divasintransition.org/front-page/)
 <img src="images/DivaInTransWebsite.PNG?raw=true"/>
 
 ---
