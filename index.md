@@ -18,7 +18,7 @@
 <br>
 ---
 
-### Category Name 2
+### Angular
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
