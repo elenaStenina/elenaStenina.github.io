@@ -23,12 +23,14 @@
 - [Angular/ Log in Project]
 <img src="images/angular.PNG?raw=true"/>
 <br>
+
 ### Presentation
-- [My Presentation](/pdf/Elena Stenina presentation.pptx)
+- [My Presentation click here to download](/pdf/Elena Stenina presentation.pptx)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+### My Resume
+- [My Resume click here to download](/pdf/Elena Stenina presentation.pptx)
 ---
 
 
