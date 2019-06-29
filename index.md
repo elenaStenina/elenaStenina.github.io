@@ -8,6 +8,7 @@
 <img src="images/DivaInTransWebsite.PNG?raw=true"/>
 
 ---
+<br></br>
 [Website/HTML/Bootstrap/CSS](/pdf/sample_presentation.pdf)
 <img src="images/WorkWebsite.PNG?raw=true"/>
 
