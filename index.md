@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Web Developer 
 
-[Project 1 Title](/sample_page)
+[Website/WordPress](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
