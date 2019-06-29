@@ -8,8 +8,8 @@
 <img src="images/DivaInTransWebsite.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Website/HTML/Bootstrap/CSS](/pdf/sample_presentation.pdf)
+<img src="images/WorkWebsite.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
