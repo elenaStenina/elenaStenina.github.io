@@ -5,7 +5,7 @@
 ### Web Developer 
 
 [Website/WordPress](/sample_page)
-<img src="images/DivaInTransWebsite.png?raw=true"/>
+<img src="images/DivaInTransWebsite.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
