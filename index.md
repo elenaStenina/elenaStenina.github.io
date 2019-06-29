@@ -30,7 +30,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 ### My Resume
-- [My Resume click here to download](/pdf/Elena Stenina presentation.pptx)
+- [My Resume click here to download](/pdf/Elena-Stenina Resume.pdf)
 ---
 
 
