@@ -11,11 +11,11 @@
 
 [Website/HTML/Bootstrap/CSS](/pdf/sample_presentation.pdf)
 <img src="images/WorkWebsite.PNG?raw=true"/>
-
+<br>
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Application #1]()
+<img src="images/ApplicationForm.PNG?raw=true"/>
+<br>
 ---
 
 ### Category Name 2
