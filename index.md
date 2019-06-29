@@ -9,7 +9,7 @@
 <br>
 ---
 
-[Website/HTML/Bootstrap/CSS](/pdf/sample_presentation.pdf)
+[Website/HTML/Bootstrap/CSS]
 <img src="images/WorkWebsite.PNG?raw=true"/>
 <br>
 ---
@@ -23,7 +23,8 @@
 - [Angular/ Log in Project]
 <img src="images/angular.PNG?raw=true"/>
 <br>
-- [Project 2 Title](http://example.com/)
+### Presentation
+- [My Presentation](/pdf/Elena Stenina presentation.pptx)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
