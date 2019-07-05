@@ -20,7 +20,7 @@
 
 ### Angular
 
-- [Angular/ Log in Project]
+[Angular/ Log in Project]
 <img src="images/angular.PNG?raw=true"/>
 <br>
 
@@ -28,7 +28,7 @@
 - [My Presentation click here to download](/pdf/Elena Stenina presentation.pptx)
 <br>
 ### My Resume
-- [My Resume click here to download](/pdf/Elena-Stenina Resume.pdf)
+[My Resume click here to download](/pdf/Elena-Stenina Resume.pdf)
 ---
 
 
