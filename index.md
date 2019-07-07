@@ -41,10 +41,3 @@
 ### My Resume
 [My Resume click here to download](/pdf/Elena-Stenina Resume.pdf)
 
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
