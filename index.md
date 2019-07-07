@@ -12,11 +12,15 @@
 <br>
 
 [Website/HTML/Bootstrap/CSS]
+<br>
+<br>
 <img src="images/WorkWebsite.PNG?raw=true"/>
 <br>
 <br>
 
 [Application #1]()
+<br>
+<br>
 <img src="images/ApplicationForm1.PNG?raw=true"/>
 <br>
 <br>
@@ -24,6 +28,8 @@
 ### Angular
 
 [Angular/ Log in Project]
+<br>
+<br>
 <img src="images/angular.PNG?raw=true"/>
 <br>
 <br>
