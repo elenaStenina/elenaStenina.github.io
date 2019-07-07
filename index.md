@@ -6,6 +6,7 @@
 
 [Website/WordPress - Divas in Transition](http://divasintransition.org/front-page/)
 <br>
+<br>
 <img src="images/DivaInTransWebsite.PNG?raw=true"/>
 <br>
 <br>
