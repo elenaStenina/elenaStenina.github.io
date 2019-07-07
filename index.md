@@ -39,5 +39,5 @@
 <br>
 <br>
 ### My Resume
-[My Resume click here to download](/pdf/Elena-Stenina Resume.pdf)
+[My Resume click here to download](/pdf/ElenaSteninaResume.pdf)
 
