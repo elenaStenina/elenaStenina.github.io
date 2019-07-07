@@ -7,16 +7,17 @@
 [Website/WordPress - Divas in Transition](http://divasintransition.org/front-page/)
 <img src="images/DivaInTransWebsite.PNG?raw=true"/>
 <br>
----
+<br>
 
 [Website/HTML/Bootstrap/CSS]
 <img src="images/WorkWebsite.PNG?raw=true"/>
 <br>
----
+<br>
+
 [Application #1]()
 <img src="images/ApplicationForm1.PNG?raw=true"/>
 <br>
----
+<br>
 
 ### Angular
 
