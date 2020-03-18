@@ -47,6 +47,5 @@
 [My Presentation click here to download](/pdf/Elena Stenina presentation.pptx)
 <br>
 <br>
-### My Resume
-[My Resume click here to download](/pdf/Elena Stenina.pdf.docx)
+
 
